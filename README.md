@@ -1,2 +1,2 @@
 # class60
-sortinh_reveserd_maxmin
+sorting_reveserd_maxmin
